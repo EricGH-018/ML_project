@@ -1,5 +1,5 @@
 # ML_project
-### MSc in HPC & Big Data Bioinformatics | Universitat Autònoma de Barcelona (UAB)
+### MSc in Bioinformatics | Universitat Autònoma de Barcelona (UAB)
 
 Welcome! This repository houses the core development, analytical scripts, and high-resolution visual outputs generated during my **Machine Learning** project. This work was developed as part of the optative modules within the Master's program at **UAB**.
 
